@@ -8,9 +8,9 @@
  * Carné: 2019253
  */
 #include <Ticker.h>
-#define Poten A0
-#define Led_G 6
-#define Led_B 3
+#define Poten A1
+#define Led_G 4
+#define Led_B 2
 #define Led_R 5
 
 //Variables
